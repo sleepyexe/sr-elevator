@@ -1,4 +1,4 @@
-fx_version 'admant'
+fx_version 'adamant'
 
 game 'gta5'
 
